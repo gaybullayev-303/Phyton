@@ -1,0 +1,41 @@
+"""print("HELL WORLD!")
+print("Millat Umidi")
+print("2026")
+print("10" + "5")
+
+print("=============================================")
+
+print("ism:" 'ali')
+print("a" , "b" ,"c" , sep='-')
+print("salom", end=" ")
+print("dunyo")
+
+print("=============================================")
+
+print("1-qator\n2-qator")
+print("1-qator\t2-qator")
+print("phyton\n0 som")
+
+print("=============================================")
+
+print("ism: shoxjaxon\n guruh: 101\n fan: it")"""
+
+"""a = 12
+b = 10
+print(a + b)
+
+name = "shoxjaxon"
+age = 18
+print(name , age)
+
+x = 10
+y = 2.5
+name = "ali"
+print(type(x))
+print(type(y))
+print(type(name))
+
+print("10" + "1")"""
+
+ism = input("ism")
+print(ism)
